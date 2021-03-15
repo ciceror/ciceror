@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ciceror
-- 👀 I’m interested in space exploration, cars, technology and photography
+- 👀 I’m interested in space exploration, cars, technology, architecture and photography
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on migrating mainframe systems to Linux
 - 📫 How to reach me ciceror@hotmail.com
